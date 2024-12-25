@@ -13,7 +13,7 @@ Due to file size limitations, the dataset and model weights have been placed in 
 We will now demonstrate how to use our model to perform dynamic emotion recognition on sample videos. Please follow the steps below:
 
 <ol>
-  <li>Please first download 'test_model_v4.pth' from the cloud folder and place it into the 'saved_models' directory.</li>
+  <li>Please first download 'test_model_v4.pth' from the <a href="https://drive.google.com/drive/folders/13F5SdpsM021hzls0vAxgC8UPK8rI70X0?usp=sharing">cloud folder</a> and place it into the 'saved_models' directory.</li>
   <li>Download 'ResNet3D.py', 'test_prediction.py', and the three folders: 'extracted_frames', 'saved_models', and 'est_videos'. Save them following the file hierarchy in this repository.</li>
   <li>run 'test_prediction.py' to perform emotion category predictions on the sample videos in the 'test_videos' folder.</li>
 </ol>
