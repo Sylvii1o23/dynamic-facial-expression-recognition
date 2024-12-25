@@ -1,5 +1,5 @@
 # dynamic-facial-expression-recognition
-## Facial expression recognition task based on videos
+### Facial expression recognition task based on videos
 
 Due to file size limitations, the dataset and model weights have been placed in the cloud folder: https://drive.google.com/drive/folders/13F5SdpsM021hzls0vAxgC8UPK8rI70X0?usp=sharing. If you could not have access to the cloud link, please contact s112065541@m112.nthu.edu.tw.
 
@@ -12,6 +12,6 @@ Step2: Download 'ResNet3D.py', 'test_prediction.py', and the three folders: 'ext
 
 Step3: run 'test_prediction.py' to perform emotion category predictions on the sample videos in the 'test_videos' folder.
 
-P.S. If you want to perform emotion recognition on your own videos, please modify 'test_prediction.py' by changing video_folder = "./test_videos" to the folder containing your videos, and update video_file = "Fear.mp4" with the name of your video file.
+<b>P.S. If you want to perform emotion recognition on your own videos, please modify 'test_prediction.py' by changing video_folder = "./test_videos" to the folder containing your videos, and update video_file = "Fear.mp4" with the name of your video file.</b>
 
 The other files in this repository are:
