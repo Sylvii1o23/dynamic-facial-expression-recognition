@@ -13,5 +13,3 @@ Step2: Download 'ResNet3D.py', 'test_prediction.py', and the three folders: 'ext
 Step3: run 'test_prediction.py' to perform emotion category predictions on the sample videos in the 'test_videos' folder.
 
 <b>P.S. If you want to perform emotion recognition on your own videos, please modify 'test_prediction.py' by changing video_folder = "./test_videos" to the folder containing your videos, and update video_file = "Fear.mp4" with the name of your video file.</b>
-
-The other files in this repository are:
