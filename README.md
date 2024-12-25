@@ -1,9 +1,8 @@
 # dynamic-facial-expression-recognition
-### Facial expression recognition task based on videos
 
 Due to file size limitations, the dataset and model weights have been placed in the cloud folder: https://drive.google.com/drive/folders/13F5SdpsM021hzls0vAxgC8UPK8rI70X0?usp=sharing. If you could not have access to the cloud link, please contact s112065541@m112.nthu.edu.tw.
 
-
+<h1>How to use</h1>
 We will now demonstrate how to use our model to perform dynamic emotion recognition on sample videos.
 
 Step1: Please first download 'test_model_v4.pth' from the cloud folder and place it into the 'saved_models' directory.
